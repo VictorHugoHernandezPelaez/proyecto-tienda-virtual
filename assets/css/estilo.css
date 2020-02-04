@@ -1,0 +1,14 @@
+.col-4{
+    background-color: blue;
+    border-style: solid;
+}
+
+.col-6{
+    background-color: green;
+    border-style: solid;
+}
+
+.col-2{
+    background-color: burlywood;
+    border-style: solid;
+}
